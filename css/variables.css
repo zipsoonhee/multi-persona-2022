@@ -1,0 +1,7 @@
+:root {
+    --gray: #424242;
+    --horizontal-space: 25px;
+    --main-border : 1px solid var(--gray);
+    --violet : rgb(148, 141, 225);
+}
+
